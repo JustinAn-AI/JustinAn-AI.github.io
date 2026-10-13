@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /qlvh/
 
-Sitemap: https://justinan-ai.github.io/sitemap.xml
+Sitemap: https://anviet-mongcai.github.io/sitemap.xml
